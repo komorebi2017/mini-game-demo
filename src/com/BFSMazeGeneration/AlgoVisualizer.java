@@ -1,4 +1,4 @@
-package com.DFSNonrecursiveMazeGeneration;
+package com.BFSMazeGeneration;
 
 import java.awt.*;
 import java.util.Stack;
